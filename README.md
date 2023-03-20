@@ -1,3 +1,3 @@
 # alx-interview
 
-*Inyang Ukpong*
+**Inyang Ukpong**
